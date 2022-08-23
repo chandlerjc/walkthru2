@@ -1,6 +1,6 @@
 # walkthru2
 
-##Introduction
+## Introduction
 walkthru for fast.ai course
 
 another paragraph
@@ -9,4 +9,4 @@ list:
 -2nd
 -3rd
 
-##More Details
+## More Details
